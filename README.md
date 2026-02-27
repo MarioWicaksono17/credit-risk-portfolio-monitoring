@@ -19,6 +19,17 @@ The final production model is a Logistic Regression classifier aligned with trad
 
 ---
 
+## Dataset
+
+The dataset used in this project is publicly available from Kaggle:
+
+**[Lending Club Loan Dataset – Kaggle](https://www.kaggle.com/datasets/jeandedieunyandwi/lending-club-dataset)**
+
+Due to file size limitations, the raw dataset is not included in this repository.  
+A processed scoring table (`lending_club_scoring_table.csv`) is provided for demonstration and reproducibility purposes.
+
+---
+
 ## Business Objective
 
 In credit risk management, model selection must balance:
@@ -157,7 +168,6 @@ The dashboard provides visibility into:
 ## Author
 
 Mario Suryowisnu Wicaksono  
-Data Analyst | Tech Enthusiast
 
 **LinkedIn:** *www.linkedin.com/in/marioswicaksono*
 

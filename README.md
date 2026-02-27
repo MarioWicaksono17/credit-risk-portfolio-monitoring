@@ -1,4 +1,4 @@
-# Credit Risk Portfolio Monitoring
+# Credit Risk Modeling and Portfolio Monitoring
 
 ## Project Overview
 

@@ -117,6 +117,8 @@ This demonstrates how statistical modeling, when combined with strategic thresho
 
 The project includes an interactive portfolio monitoring dashboard designed to simulate a banking credit risk monitoring environment.
 
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Dashboard_17722075578340/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 The dashboard provides visibility into:
 
 - Probability of Default (PD) distribution  

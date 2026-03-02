@@ -173,6 +173,4 @@ Mario Suryowisnu Wicaksono
 
 **LinkedIn:** *www.linkedin.com/in/marioswicaksono*
 
-**CV:** *[marioswicaksono](https://www.canva.com/design/DAGlhKwckaQ/vjIw_6NJgrAEq4hVCdpEUw/view?utm_content=DAGlhKwckaQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9dd2c26e9d)*
-
 **Portfolio:** *[marioswicaksono](https://marioswicaksono.my.canva.site/)*
